@@ -31,7 +31,6 @@ lot_summary <- mecha_coil  %>% group_by(Manufacturing_Lot) %>% summarize(Mean_PS
                                           Num_Coil=n(), .groups = 'keep')                                      
 
 
-
 #DELIVERABLE 3
 
 #1. use t.test() to determine if the PSI across ALL lots is statistically different from the pop. mean of 1,500 PSI.

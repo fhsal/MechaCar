@@ -13,7 +13,7 @@ The effort involved using R to load datasets regarding mpg and suspension coil l
 
 ## Major components of the work:
 
-# Deliverable 1: Linear Regression to Predict MPG 
+### Deliverable 1: Linear Regression to Predict MPG 
 This deliverable involved loading the data, performing linear regressions and three questions to answer were specified:
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
@@ -23,7 +23,7 @@ This deliverable involved loading the data, performing linear regressions and th
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 
-# Deliverable 2: Create Visualizations for the Trip Analysis
+### Deliverable 2: Create Visualizations for the Trip Analysis
 This deliverable involved creating summary a summary statistics table to show 
 (a) The suspension coil’s PSI continuous variable across all manufacturing lots; and
 (b)  PSI metrics for each lot: mean, median, variance, and standard deviation.   The following question was posed to answer:
@@ -31,12 +31,12 @@ This deliverable involved creating summary a summary statistics table to show
 * The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 
-# Deliverable 3: T-Tests on Suspension Coils
+### Deliverable 3: T-Tests on Suspension Coils
 This deliverable involved performing t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
 
 * The question here is to briefly summarize interpretation and findings for the t-test results
 
-# Deliverable 4: T-Tests on Suspension Coils
+### Deliverable 4: T-Tests on Suspension Coils
 This deliverable involved designing a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.  Four questions were posed: 
 
 * What metric or metrics are you going to test?
@@ -59,11 +59,11 @@ Statistical summary of the linear model are below and indicate that vehicle leng
 
 Statistical summary of the coils and three lots are below and indicate that the overall group falls within the quality tolerance for variance of +/- 100, but the third lot does not as it shows a variance of 170 PSI. 
 
-# Overall summary
+### Overall summary
 
 ![img](https://github.com/fhsal/MechaCar/blob/main/images/coil_total_summary.png)
 
-# Lot summary
+### Lot summary
 
 ![img](https://github.com/fhsal/MechaCar/blob/main/images/coil_lot_summary.png)
 
@@ -72,19 +72,19 @@ Statistical summary of the coils and three lots are below and indicate that the 
 
 T-Tests of the coils and three lots are below and indicate that the p-value for the overall group is above the significance level of .05 and we cannot reject the null hypothesis, meaning that the total group falls within the population mean of 1500. 
 
-# Overall T-Test
+### Overall T-Test
 
 ![img](https://github.com/fhsal/MechaCar/blob/main/images/coil_total_summary.png)
 
-# Lot 1 T-Test
+### Lot 1 T-Test
 
 ![img](https://github.com/fhsal/MechaCar/blob/main/images/Lot1_T-Test.png)
 
-# Lot 2 T-Test
+### Lot 2 T-Test
 
 ![img](https://github.com/fhsal/MechaCar/blob/main/images/Lot2_T-Test.png)
 
-# Lot 3  T-Test
+### Lot 3  T-Test
 
 note variance of 170, above the quality threashold of 100
 

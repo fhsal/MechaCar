@@ -48,11 +48,11 @@ This deliverable involved designing a statistical study to compare performance o
 
 Linear regression on factors related to MPG produces the following result: 
 
-![img](https://github.com/fhsal/Mars/blob/main/images/Deliverable1_LinearRegressionOutput.png)
+![img](https://github.com/fhsal/MechaCar/blob/main/images/Deliverable1_LinearRegressionOutput.png)
 
-Statistical summar of the linear model are below and indicate that vehicle length and ground clearance are the independent variables with non-zero variance that contribute to MGP.  The p-value is far below significance, indicating that the null hypothesis can be rejected and the slope of the linear model is non-zero: 
+Statistical summary of the linear model are below and indicate that vehicle length and ground clearance are the independent variables with non-zero variance that contribute to MGP.  The p-value is far below significance, indicating that the null hypothesis can be rejected and the slope of the linear model is non-zero: 
 
-![img](https://github.com/fhsal/Mars/blob/main/images/Deliverable1_LR_Summary.png)
+![img](https://github.com/fhsal/MechaCar/blob/main/images/Deliverable1_LR_Summary.png)
 
 
 ## Summary Statistics on Suspension Coils (Deliverable 2)

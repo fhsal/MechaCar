@@ -57,6 +57,16 @@ Statistical summary of the linear model are below and indicate that vehicle leng
 
 ## Summary Statistics on Suspension Coils (Deliverable 2)
 
+Statistical summary of the coils and three lots are below and indicat that the overall group falls within the quality tolerance for variance of +/- 100, but the third lot does not as it shows a variance of 170 PSI. 
+
+# Overall summary
+
+![img](https://github.com/fhsal/MechaCar/blob/main/images/coil_overall_summary.png)
+
+# Lot summary
+
+![img](https://github.com/fhsal/MechaCar/blob/main/images/coil_lot_summary.png)
+
 
 ## T-Tests on Suspension Coils (Deliverable 3)
 

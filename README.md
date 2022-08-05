@@ -57,11 +57,11 @@ Statistical summary of the linear model are below and indicate that vehicle leng
 
 ## Summary Statistics on Suspension Coils (Deliverable 2)
 
-Statistical summary of the coils and three lots are below and indicat that the overall group falls within the quality tolerance for variance of +/- 100, but the third lot does not as it shows a variance of 170 PSI. 
+Statistical summary of the coils and three lots are below and indicate that the overall group falls within the quality tolerance for variance of +/- 100, but the third lot does not as it shows a variance of 170 PSI. 
 
 # Overall summary
 
-![img](https://github.com/fhsal/MechaCar/blob/main/images/coil_overall_summary.png)
+![img](https://github.com/fhsal/MechaCar/blob/main/images/coil_total_summary.png)
 
 # Lot summary
 
@@ -70,23 +70,45 @@ Statistical summary of the coils and three lots are below and indicat that the o
 
 ## T-Tests on Suspension Coils (Deliverable 3)
 
+T-Tests of the coils and three lots are below and indicate that the p-value for the overall group is above the significance level of .05 and we cannot reject the null hypothesis, meaning that the total group falls within the population mean of 1500. 
+
+# Overall T-Test
+
+![img](https://github.com/fhsal/MechaCar/blob/main/images/coil_total_summary.png)
+
+# Lot 1 T-Test
+
+![img](https://github.com/fhsal/MechaCar/blob/main/images/Lot1_T-Test.png)
+
+# Lot 2 T-Test
+
+![img](https://github.com/fhsal/MechaCar/blob/main/images/Lot2_T-Test.png)
+
+# Lot 3  T-Test
+
+note variance of 170, above the quality threashold of 100
+
+![img](https://github.com/fhsal/MechaCar/blob/main/images/Lot3_T-Test.png)
+
 
 ## Study Design: MechaCar vs Competition (Deliverable 4) 
 
-![img](https://github.com/fhsal/Mars/blob/main/images/jumbotron.png)
+Although there are any number of attributes one could compare MechaCar to its competitors on, the most obvious competitive test given this analysis here would be to focus upon the factors in those vehicles which similarly drive MPG.   It may very well be that there are other factors in those vehicles which drive improvements in MPG that MechaCar hasn't yet identified that are not currently within this dataset and/or analysis.   
+
+In that regard, the metrics which might be considered (independent variables) as influencing MPG (dependent variable) could include:
+
+* Engine size
+* Tire size
+* Transmission type
+* Vehicle frontal area
+
+The hypothesis would be:
+
+* Null:  The factors which drive MPG for MechaCar are the same as the competition 
+
+* Alternative:  The competition has used one or more of the factors to impact MPG in a way that is statistically significantly different 
+
+The Statistical tests to run would likely be a series of statistical regression to detmine wich factor(s) differentiate MechaCar MPG from its competition 
 
 
-### Page body with news summary, main image and table of facts
-
-![img](https://github.com/fhsal/Mars/blob/main/images/mid-page.png)
-
-
-### Hemisphere images shown in a single row using Bootstrap
-
-![img](https://github.com/fhsal/Mars/blob/main/images/hemispheres.png)
-
-
-### Mongo database with stored hemisphere information
-
-![img](https://github.com/fhsal/Mars/blob/main/images/mongo.png)
 

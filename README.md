@@ -110,7 +110,7 @@ The hypothesis would be:
 
 * Alternative:  The competition has used one or more of the factors to impact MPG in a way that is statistically significantly different 
 
-The Statistical tests to run would likely be a series of statistical regression to detmine wich factor(s) differentiate MechaCar MPG from its competition 
+The Statistical tests to run would likely be a series of statistical regression to detmine which factor(s) differentiate MechaCar MPG from its competition 
 
 
 

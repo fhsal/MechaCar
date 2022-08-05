@@ -12,7 +12,7 @@ The project involved utilizing R to perform statistical analysis on data regardi
 The effort involved using R to load datasets regarding mpg and suspension coil lots.  Linear regression was performed on the MechCar attributes in relation to mpg.   Summary statistics and t-tests to determin lot variance vis-a-vis specifications was performed on the suspension coil data. T For each deliverable a specific set of questions to be answered were specified.  echnial analysis and written summary for each of four deliverables are outlined below:   
 
 ## Major components of the work:
-==========================================================================
+
 ### Deliverable 1: Linear Regression to Predict MPG 
 This deliverable involved loading the data, performing linear regressions and three questions to answer were specified:
 
@@ -43,6 +43,8 @@ This deliverable involved designing a statistical study to compare performance o
 * What is the null hypothesis or alternative hypothesis?
 * What statistical test would you use to test the hypothesis? And why?
 * What data is needed to run the statistical test?
+
+==========================================================================
 
 ## Linear Regression to Predict MPG (Deliverable 1) 
 
